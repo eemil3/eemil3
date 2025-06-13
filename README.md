@@ -8,7 +8,7 @@ I'm an Information Technology student.
 
 ---
 
-### Arduino Reaction Test Game
-**Tech:** Arduino IDE, C++  
+### Arduino-based Reaction Game
+**Tech:** Arduino IDE, C/C++  
 🔗 [View repository](https://github.com/mintusmaximus/TVT24KMO_R15_SpedenSpelit)
 
