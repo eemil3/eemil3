@@ -1,6 +1,6 @@
 # Hi, I'm Eemil Koskelo
 
-I'm an Information Technology student.
+I'm an Information Technology student focused on software development.
 
 ### [ATM Machine Simulator](https://github.com/tvt24kmo-project/group_15)
 **Tech:** C++, Qt Widgets, Node.js, Express, MySQL  
